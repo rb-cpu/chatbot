@@ -10,7 +10,7 @@ TWEAKS = {
   "ChatOutput-gGsyA": {},
   "OpenAIModel-I4pKV": {}
 }
-flow_id="653289f4-80f6-4bd9-bd91-8309b7d0a429"
+FLOW_ID="653289f4-80f6-4bd9-bd91-8309b7d0a429"
 
 
 def run_flow(inputs: dict, flow_id: str, tweaks: Optional[dict] = None) -> dict:
